@@ -2,7 +2,7 @@
 
 Repository ini digunakan sebagai pusat akses untuk file presentasi, catatan, dan link penting agar mudah dibuka dari perangkat mana pun.
 
-```md
+<!--
 presentasi-repo/
 ├── README.md
 ├── presentasi/
@@ -16,7 +16,7 @@ presentasi-repo/
 - PPT: [PPT](./presentasi/mata-kuliah-a/nama-file.pptx)
 - PDF: [PDF](./presentasi/mata-kuliah/nama-file.pdf)
 - FILE lain: [Nama File](./lokasi/nama-file.format-file)
-```
+-->
     
 ## Presentasi Mata Kuliah
 
