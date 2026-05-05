@@ -22,5 +22,6 @@ presentasi-repo/
 
 ### 1. Mobile Programming
 - File PPTX: [Slide PowerPoint](./presentasi/mata-kuliah-a/slide-utama.pptx)
-- Milanote: [Catatan Presentasi](https://app.milanote.com/1W9VX31glIRRae/code-adventure?p=6u8rpLPUUnC)
+- Milanote: [Dokumentasi Game](https://app.milanote.com/1W9VX31glIRRae/code-adventure?p=6u8rpLPUUnC)
+- Notion: [Dokumentasi Game](https://www.notion.so/Code-Adventure-Catatan-Dokumentasi-Ringkas-ff4acea06ee44eafba49e0fc65a7ba79?source=copy_link)
 
