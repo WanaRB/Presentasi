@@ -25,3 +25,9 @@ presentasi-repo/
 - Milanote: [Dokumentasi Game](https://app.milanote.com/1W9VX31glIRRae/code-adventure?p=6u8rpLPUUnC)
 - Notion: [Dokumentasi Game](https://www.notion.so/Code-Adventure-Catatan-Dokumentasi-Ringkas-ff4acea06ee44eafba49e0fc65a7ba79?source=copy_link)
 
+### 2. Cloud Computing
+docker run --rm -it --net=host -e SECRET_KEY=e96d69e94be456f0507f6901c99bd24806a83395c5303cb1a809063f6e48b805 ghcr.io/playit-cloud/playit-agent:0.17
+- File PPTX: [Slide PowerPoint](https://canva.link/k5zs04m69cdutqm)
+- Milanote: [Dokumentasi Game](https://app.milanote.com/1W9VX31glIRRae/code-adventure?p=6u8rpLPUUnC)
+- Notion: [Dokumentasi Game](https://www.notion.so/Code-Adventure-Catatan-Dokumentasi-Ringkas-ff4acea06ee44eafba49e0fc65a7ba79?source=copy_link)
+
